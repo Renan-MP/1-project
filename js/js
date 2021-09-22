@@ -1,0 +1,9 @@
+const photo = document.querySelector(".photo"), foto = document.querySelector(".foto") ;
+
+foto.style.transform = `translate3D(${-x/50}px, 0, 0)`;
+
+    photo.style.transform = `translate3D(${-x/35}px, 0, 0)`;
+
+;
+    
+    
